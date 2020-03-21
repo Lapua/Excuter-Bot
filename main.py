@@ -2,7 +2,7 @@ import discord
 from discord.ext import tasks
 
 TOKEN = ''
-CHANNEL_ID = '690796724901642265'
+CHANNEL_ID = '690802888846344233'
 
 client = discord.Client()
 
